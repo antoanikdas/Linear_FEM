@@ -77,8 +77,8 @@ BOUNDARY_CONDITIONS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FEM_Quad4.git
-   cd FEM_Quad4
+   git clone https://github.com/antoanikdas/Linear_FEM.git
+   cd Linear_FEM
    ```
 
 2. Build the project:
