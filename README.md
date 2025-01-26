@@ -18,7 +18,7 @@ FEM_Quad4/
 │   ├── Node.h           
 │   ├── Element.h        
 │   ├── FEMSolver.h      
-├── src/                 # Data files
+├── data/                 # Data files
 │   ├── input.dat            
 |   ├── results.dat          
 └── README.md            # Project description
