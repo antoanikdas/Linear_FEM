@@ -1,0 +1,64 @@
+Nodal Displacements:
+Node 1: u_x = -8.61052e-18, u_y = 5.60406e-17
+Node 2: u_x = 0.005, u_y = 4.26875e-18
+Node 3: u_x = 0.01, u_y = 4.3701e-18
+Node 4: u_x = 1.97163e-17, u_y = -0.00166667
+Node 5: u_x = 0.005, u_y = -0.00166667
+Node 6: u_x = 0.01, u_y = -0.00166667
+Node 7: u_x = 0, u_y = -0.00333333
+Node 8: u_x = 0.005, u_y = -0.00333333
+Node 9: u_x = 0.01, u_y = -0.00333333
+
+Element Strain and Stress at Integration Points:
+Element 1:
+  Gauss Point 1:
+    Strain:         0.01  -0.00333333 -3.61039e-17
+    Stress:      1.06667 -1.00406e-14 -1.44416e-15
+  Gauss Point 2:
+    Strain:        0.01 -0.00333333 2.47198e-17
+    Stress:      1.06667 -1.12618e-14  9.88792e-16
+  Gauss Point 3:
+    Strain:         0.01  -0.00333333 -6.75458e-17
+    Stress:      1.06667 -2.75474e-15 -2.70183e-15
+  Gauss Point 4:
+    Strain:         0.01  -0.00333333 -7.80626e-18
+    Stress:      1.06667 -3.97599e-15  -3.1225e-16
+Element 2:
+  Gauss Point 1:
+    Strain:         0.01  -0.00333333 -4.19586e-17
+    Stress:      1.06667  5.66908e-15 -1.67834e-15
+  Gauss Point 2:
+    Strain:         0.01  -0.00333333 -3.98986e-17
+    Stress:      1.06667  1.17267e-15 -1.59595e-15
+  Gauss Point 3:
+    Strain:        0.01 -0.00333333 -1.4821e-16
+    Stress:      1.06667  5.66908e-15 -5.92842e-15
+  Gauss Point 4:
+    Strain:         0.01  -0.00333333 -1.48753e-16
+    Stress:     1.06667 1.22471e-15 -5.9501e-15
+Element 3:
+  Gauss Point 1:
+    Strain:         0.01  -0.00333333 -2.97071e-17
+    Stress:      1.06667 -1.02002e-15 -1.18829e-15
+  Gauss Point 2:
+    Strain:         0.01  -0.00333333 -3.03577e-17
+    Stress:      1.06667 -2.08167e-17 -1.21431e-15
+  Gauss Point 3:
+    Strain:         0.01  -0.00333333 -3.68629e-18
+    Stress:      1.06667 -1.22818e-15 -1.47451e-16
+  Gauss Point 4:
+    Strain:         0.01  -0.00333333 -5.20417e-18
+    Stress:      1.06667 -2.28983e-16 -2.08167e-16
+Element 4:
+  Gauss Point 1:
+    Strain:        0.01 -0.00333333 2.38524e-18
+    Stress:     1.06667  -6.245e-17 9.54098e-17
+  Gauss Point 2:
+    Strain:        0.01 -0.00333333 8.67362e-19
+    Stress:     1.06667  -6.245e-17 3.46945e-17
+  Gauss Point 3:
+    Strain:        0.01 -0.00333333 8.89046e-18
+    Stress:      1.06667 -2.18575e-16  3.55618e-16
+  Gauss Point 4:
+    Strain:        0.01 -0.00333333 1.12757e-17
+    Stress:      1.06667 -2.18575e-16  4.51028e-16
