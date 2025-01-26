@@ -80,7 +80,10 @@ BOUNDARY_CONDITIONS
    git clone https://github.com/antoanikdas/Linear_FEM.git
    cd Linear_FEM
    ```
-
+   Clone Eigen3 library or add path in CMakeLists.txt
+   ```bash
+   git clone https://gitlab.com/libeigen/eigen.git
+   ```
 2. Build the project:
    ```bash
    mkdir build
