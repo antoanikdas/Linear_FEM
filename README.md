@@ -18,7 +18,7 @@ FEM_Quad4/
 │   ├── Node.h           
 │   ├── Element.h        
 │   ├── FEMSolver.h      
-├── src/                 # Data files
+├── data/                 # Data files
 │   ├── input.dat            
 |   ├── results.dat          
 └── README.md            # Project description
@@ -77,10 +77,13 @@ BOUNDARY_CONDITIONS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FEM_Quad4.git
-   cd FEM_Quad4
+   git clone https://github.com/antoanikdas/Linear_FEM.git
+   cd Linear_FEM
    ```
-
+   Clone Eigen3 library or add path in CMakeLists.txt
+   ```bash
+   git clone https://gitlab.com/libeigen/eigen.git
+   ```
 2. Build the project:
    ```bash
    mkdir build
