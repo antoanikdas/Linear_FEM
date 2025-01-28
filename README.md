@@ -80,6 +80,11 @@ BOUNDARY_CONDITIONS
    git clone https://github.com/antoanikdas/Linear_FEM.git
    cd Linear_FEM
    ```
+   Update the **Eigen3** submodule
+   ```bash
+   git submodule update --init
+   ```
+   Alternatively, 
    Clone Eigen3 library or add path in CMakeLists.txt
    ```bash
    git clone https://gitlab.com/libeigen/eigen.git
